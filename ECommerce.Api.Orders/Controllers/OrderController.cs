@@ -30,6 +30,18 @@ namespace ECommerce.Api.Orders.Controllers
 
             return NotFound();
         }
+        [HttpGet]
+        [Route("api/orderitems")]
+        public async Task<IActionResult> GetOrderItemsAsync()
+        {
+            var result  = await orderProvider.getOrderItemsAsync();
+
+            if(result.isSuccess)
+            {
+                return Ok(result.Orders);
+            }
+            return NotFound();
+        }
         [HttpGet("{id}")]
         public async Task<IActionResult> GetOrderAsync( int id )
         {
