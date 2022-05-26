@@ -26,3 +26,15 @@ C:\Course\ECommerce\ECommerce.Api.Search\obj\Debug\netcoreapp3.1\ECommerce.Api.S
 C:\Course\ECommerce\ECommerce.Api.Search\obj\Debug\netcoreapp3.1\ECommerce.Api.Search.dll
 C:\Course\ECommerce\ECommerce.Api.Search\obj\Debug\netcoreapp3.1\ECommerce.Api.Search.pdb
 C:\Course\ECommerce\ECommerce.Api.Search\obj\Debug\netcoreapp3.1\ECommerce.Api.Search.genruntimeconfig.cache
+C:\Course\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Course\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Course\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Http.dll
+C:\Course\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Http.Polly.dll
+C:\Course\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Course\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Course\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Course\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Course\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\Polly.dll
+C:\Course\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\Polly.Extensions.Http.dll
+C:\Course\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Course\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll

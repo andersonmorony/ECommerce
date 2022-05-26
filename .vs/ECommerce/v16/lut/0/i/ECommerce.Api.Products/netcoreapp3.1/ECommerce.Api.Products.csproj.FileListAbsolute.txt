@@ -1,0 +1,17 @@
+C:\Course\ECommerce\.vs\ECommerce\v16\lut\0\b\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Course\ECommerce\.vs\ECommerce\v16\lut\0\b\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Course\ECommerce\.vs\ECommerce\v16\lut\0\b\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\ECommerce.Api.Products.exe
+C:\Course\ECommerce\.vs\ECommerce\v16\lut\0\b\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\ECommerce.Api.Products.deps.json
+C:\Course\ECommerce\.vs\ECommerce\v16\lut\0\b\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\ECommerce.Api.Products.runtimeconfig.json
+C:\Course\ECommerce\.vs\ECommerce\v16\lut\0\b\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\ECommerce.Api.Products.runtimeconfig.dev.json
+C:\Course\ECommerce\.vs\ECommerce\v16\lut\0\b\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\ECommerce.Api.Products.dll
+C:\Course\ECommerce\.vs\ECommerce\v16\lut\0\i\ECommerce.Api.Products\netcoreapp3.1\ECommerce.Api.Products.csprojAssemblyReference.cache
+C:\Course\ECommerce\.vs\ECommerce\v16\lut\0\i\ECommerce.Api.Products\netcoreapp3.1\ECommerce.Api.Products.AssemblyInfoInputs.cache
+C:\Course\ECommerce\.vs\ECommerce\v16\lut\0\i\ECommerce.Api.Products\netcoreapp3.1\ECommerce.Api.Products.AssemblyInfo.cs
+C:\Course\ECommerce\.vs\ECommerce\v16\lut\0\i\ECommerce.Api.Products\netcoreapp3.1\staticwebassets\ECommerce.Api.Products.StaticWebAssets.Manifest.cache
+C:\Course\ECommerce\.vs\ECommerce\v16\lut\0\i\ECommerce.Api.Products\netcoreapp3.1\staticwebassets\ECommerce.Api.Products.StaticWebAssets.xml
+C:\Course\ECommerce\.vs\ECommerce\v16\lut\0\i\ECommerce.Api.Products\netcoreapp3.1\scopedcss\bundle\ECommerce.Api.Products.styles.css
+C:\Course\ECommerce\.vs\ECommerce\v16\lut\0\i\ECommerce.Api.Products\netcoreapp3.1\ECommerce.Api.Products.RazorTargetAssemblyInfo.cache
+C:\Course\ECommerce\.vs\ECommerce\v16\lut\0\i\ECommerce.Api.Products\netcoreapp3.1\ECommerce.Api.Products.csproj.CopyComplete
+C:\Course\ECommerce\.vs\ECommerce\v16\lut\0\i\ECommerce.Api.Products\netcoreapp3.1\ECommerce.Api.Products.dll
+C:\Course\ECommerce\.vs\ECommerce\v16\lut\0\i\ECommerce.Api.Products\netcoreapp3.1\ECommerce.Api.Products.genruntimeconfig.cache

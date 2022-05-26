@@ -30,6 +30,7 @@ namespace ECommerce.Api.Search
             services.AddScoped<ISearchService, SearchService>();
             services.AddScoped<IOrdersService, OrdersService>();
             services.AddScoped<IProductsService, ProductsService>();
+            services.AddScoped<ICustomerService, CustomersService>();
 
             services.AddHttpClient("OrdersService", config =>
             {
@@ -39,6 +40,11 @@ namespace ECommerce.Api.Search
             services.AddHttpClient("ProductsService", config =>
             {
                 config.BaseAddress = new Uri(Configuration["Services:Products"]);
+            }).AddTransientHttpErrorPolicy(p => p.WaitAndRetryAsync(5, _ => TimeSpan.FromMilliseconds(500)));
+
+            services.AddHttpClient("CustomersService", config =>
+            {
+                config.BaseAddress = new Uri(Configuration["Services:Customers"]);
             }).AddTransientHttpErrorPolicy(p => p.WaitAndRetryAsync(5, _ => TimeSpan.FromMilliseconds(500)));
 
             services.AddControllers();

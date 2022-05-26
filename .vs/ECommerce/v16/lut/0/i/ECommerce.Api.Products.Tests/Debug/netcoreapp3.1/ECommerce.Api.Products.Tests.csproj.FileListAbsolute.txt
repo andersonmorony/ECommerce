@@ -1,0 +1,16 @@
+C:\Course\ECommerce\.vs\ECommerce\v16\lut\0\b\ECommerce.Api.Products.Tests\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Course\ECommerce\.vs\ECommerce\v16\lut\0\b\ECommerce.Api.Products.Tests\Debug\netcoreapp3.1\appsettings.json
+C:\Course\ECommerce\.vs\ECommerce\v16\lut\0\b\ECommerce.Api.Products.Tests\Debug\netcoreapp3.1\ECommerce.Api.Products.exe
+C:\Course\ECommerce\.vs\ECommerce\v16\lut\0\b\ECommerce.Api.Products.Tests\Debug\netcoreapp3.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Course\ECommerce\.vs\ECommerce\v16\lut\0\b\ECommerce.Api.Products.Tests\Debug\netcoreapp3.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Course\ECommerce\.vs\ECommerce\v16\lut\0\b\ECommerce.Api.Products.Tests\Debug\netcoreapp3.1\xunit.runner.utility.netcoreapp10.dll
+C:\Course\ECommerce\.vs\ECommerce\v16\lut\0\b\ECommerce.Api.Products.Tests\Debug\netcoreapp3.1\ECommerce.Api.Products.Tests.deps.json
+C:\Course\ECommerce\.vs\ECommerce\v16\lut\0\b\ECommerce.Api.Products.Tests\Debug\netcoreapp3.1\ECommerce.Api.Products.Tests.runtimeconfig.json
+C:\Course\ECommerce\.vs\ECommerce\v16\lut\0\b\ECommerce.Api.Products.Tests\Debug\netcoreapp3.1\ECommerce.Api.Products.Tests.runtimeconfig.dev.json
+C:\Course\ECommerce\.vs\ECommerce\v16\lut\0\b\ECommerce.Api.Products.Tests\Debug\netcoreapp3.1\ECommerce.Api.Products.Tests.dll
+C:\Course\ECommerce\.vs\ECommerce\v16\lut\0\i\ECommerce.Api.Products.Tests\Debug\netcoreapp3.1\ECommerce.Api.Products.Tests.csprojAssemblyReference.cache
+C:\Course\ECommerce\.vs\ECommerce\v16\lut\0\i\ECommerce.Api.Products.Tests\Debug\netcoreapp3.1\ECommerce.Api.Products.Tests.AssemblyInfoInputs.cache
+C:\Course\ECommerce\.vs\ECommerce\v16\lut\0\i\ECommerce.Api.Products.Tests\Debug\netcoreapp3.1\ECommerce.Api.Products.Tests.AssemblyInfo.cs
+C:\Course\ECommerce\.vs\ECommerce\v16\lut\0\i\ECommerce.Api.Products.Tests\Debug\netcoreapp3.1\ECommerce.Api.Products.Tests.csproj.CopyComplete
+C:\Course\ECommerce\.vs\ECommerce\v16\lut\0\i\ECommerce.Api.Products.Tests\Debug\netcoreapp3.1\ECommerce.Api.Products.Tests.dll
+C:\Course\ECommerce\.vs\ECommerce\v16\lut\0\i\ECommerce.Api.Products.Tests\Debug\netcoreapp3.1\ECommerce.Api.Products.Tests.genruntimeconfig.cache
