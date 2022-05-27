@@ -106,3 +106,6 @@ C:\Course\ECommerce\ECommerce.Api.Products.Tests\obj\Debug\netcoreapp3.1\ECommer
 C:\Course\ECommerce\ECommerce.Api.Products.Tests\obj\Debug\netcoreapp3.1\ECommerce.Api.Products.Tests.dll
 C:\Course\ECommerce\ECommerce.Api.Products.Tests\obj\Debug\netcoreapp3.1\ECommerce.Api.Products.Tests.pdb
 C:\Course\ECommerce\ECommerce.Api.Products.Tests\obj\Debug\netcoreapp3.1\ECommerce.Api.Products.Tests.genruntimeconfig.cache
+C:\Course\ECommerce\ECommerce.Api.Products.Tests\bin\Debug\netcoreapp3.1\ECommerce.Api.Orders.exe
+C:\Course\ECommerce\ECommerce.Api.Products.Tests\bin\Debug\netcoreapp3.1\ECommerce.Api.Orders.dll
+C:\Course\ECommerce\ECommerce.Api.Products.Tests\bin\Debug\netcoreapp3.1\ECommerce.Api.Orders.pdb
