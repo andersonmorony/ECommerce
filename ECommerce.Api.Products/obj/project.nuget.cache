@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "koCGSyST1GAV8Go0kKyuFA4dsbmCycQrMSp+yix3IcOUZUSBrVgYTjPJU7ZM/ctanWsJy4F8/Tgme+R3jqhtfw==",
+  "dgSpecHash": "giVZu3uXtID1KpUDI72jNTB3tPzOpZOuyLUZIURhyMmuip4M60DEOEicKRXmpw5TGqPRtSShWiKn/FIK6NtW/A==",
   "success": true,
   "projectFilePath": "C:\\Course\\ECommerce\\ECommerce.Api.Products\\ECommerce.Api.Products.csproj",
   "expectedPackageFiles": [
@@ -26,6 +26,7 @@
     "C:\\Users\\a.de.souza.ramos\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.0\\microsoft.extensions.primitives.3.1.0.nupkg.sha512",
     "C:\\Users\\a.de.souza.ramos\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\a.de.souza.ramos\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\a.de.souza.ramos\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512",
     "C:\\Users\\a.de.souza.ramos\\.nuget\\packages\\system.collections.immutable\\1.7.0\\system.collections.immutable.1.7.0.nupkg.sha512",
     "C:\\Users\\a.de.souza.ramos\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512",
     "C:\\Users\\a.de.souza.ramos\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.0\\system.diagnostics.diagnosticsource.4.7.0.nupkg.sha512",
