@@ -1,0 +1,36 @@
+version: '3.4'
+
+services:
+  ecommerce.api.customers:
+    environment:
+    image: andersonmorony/ecommerceapicustomers:latest
+      - ASPNETCORE_ENVIRONMENT=Development
+    ports:
+      - "80/http"
+
+  ecommerce.api.orders:
+    image: andersonmorony/ecommerceapiorders:latest
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+    ports:
+      - "80/http"
+
+
+  ecommerce.api.products:
+    image: andersonmorony/ecommerceapiproducts:latest
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+    ports:
+      - "80/http"
+
+
+  ecommerce.api.search:
+    image: andersonmorony/ecommerceapicustomers:search
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - Services__Products=http://10.0.0.4:19081/lil/products/
+      - Services__Orders=http://10.0.0.4:19081/lil/orders/
+      - Services__Customers=http://10.0.0.4:19081/lil/customers/
+    ports:
+      - "6004:80"
+
