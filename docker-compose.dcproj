@@ -3,15 +3,13 @@
   <PropertyGroup Label="Globals">
     <ProjectVersion>2.1</ProjectVersion>
     <DockerTargetOS>Windows</DockerTargetOS>
-    <ProjectGuid>2787de1d-3c75-45e1-9630-d27421fb5a59</ProjectGuid>
+    <ProjectGuid>44d10a8f-fa5f-41d0-84ae-6924dfc3f9d7</ProjectGuid>
     <DockerLaunchAction>LaunchBrowser</DockerLaunchAction>
     <DockerServiceUrl>{Scheme}://{ServiceIPAddress}{ServicePort}/api/customers</DockerServiceUrl>
     <DockerServiceName>ecommerce.api.customers</DockerServiceName>
   </PropertyGroup>
   <ItemGroup>
-    <None Include="docker-compose - Copy.override.yml">
-      <DependentUpon>docker-compose.yml</DependentUpon>
-    </None>
+    <None Include="docker-compose.asf.yml" />
     <None Include="docker-compose.override.yml">
       <DependentUpon>docker-compose.yml</DependentUpon>
     </None>
